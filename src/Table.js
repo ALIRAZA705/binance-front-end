@@ -48,7 +48,9 @@ export default function TableData(props) {
             </tr>
 
           })} */}
-                                               <tr>  {renderTableBody}</tr> 
+                                                 {/* {renderTableBody} */}
+
+                                                 
 
         </tbody>
  
